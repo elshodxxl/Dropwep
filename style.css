@@ -1,0 +1,45 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: aliceblue;
+}
+
+button{
+    background-color: #BFAFF2;
+    color: white;
+    border: none;
+    width: 175px;
+    height: 50px;
+    border-radius: 15px;
+}
+
+option{
+    width: 82px;
+    height: 32px;
+}
+
+
+body{
+background-color: rgb(3, 3, 77);;
+}
+
+.boxs div{
+  width: 293px;
+  height: 102px;
+  color: white;
+  
+ 
+
+}
+
+
+.box {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+
+
+
+
